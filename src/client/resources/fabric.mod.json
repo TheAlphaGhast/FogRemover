@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "fogremover",
-	"version": "${mod_version}",
+	"version": "1.0.0",
 	"name": "Fog Remover",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple mod to remove Fog.",
 	"authors": [
-		"Me!"
+		"TheAlphaGhast"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

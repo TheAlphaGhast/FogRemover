@@ -1,9 +1,7 @@
-# Fabric Example Mod
+## Info
 
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+This is a simple mod to remove fog.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
